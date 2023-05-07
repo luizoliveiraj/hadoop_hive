@@ -1,0 +1,43 @@
+19,<?xml-stylesheet href="ProductDescription.xsl" type="text/xsl"?><p1:ProductDescription xmlns:p1="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/ProductModelDescription" xmlns:wm="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/ProductModelWarrAndMain" xmlns:wf="http://www.adventure-works.com/schemas/OtherFeatures" xmlns:html="http://www.w3.org/1999/xhtml" ProductModelID="19" ProductModelName="Mountain 100"><p1:Summary><html:p>Our top-of-the-line competition mountain bike.,\N,2000-01-01 00:00:00
+\N,\N,\N,2000-01-01 00:00:00
+\N,\N,\N,2000-01-01 00:00:00
+\N,\N,\N,2000-01-01 00:00:00
+\N,\N,\N,2000-01-01 00:00:00
+\N,\N,\N,2000-01-01 00:00:00
+\N, alumunim crank arm, flawless shifting. </wf:crankset></p1:Features><!-- add one or more of these elements... one for each specific product in this product model --><p1:Picture><p1:Angle>front</p1:Angle><p1:Size>small</p1:Size><p1:ProductPhotoID>118</p1:ProductPhotoID></p1:Picture><!-- add any tags in <specifications> --><p1:Specifications> These are the product specifications.,2000-01-01 00:00:00
+\N,FCA0665B-B956-489A-A5EC-6F0B4AA14D02,01-06-2005,2000-01-01 00:00:00
+23,<?xml-stylesheet href="ProductDescription.xsl" type="text/xsl"?><p1:ProductDescription xmlns:p1="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/ProductModelDescription" xmlns:wm="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/ProductModelWarrAndMain" xmlns:wf="http://www.adventure-works.com/schemas/OtherFeatures" xmlns:html="http://www.w3.org/1999/xhtml" ProductModelID="23" ProductModelName="Mountain-500"><p1:Summary><html:p>Suitable for any type of riding, on or off-road.,\N,2000-01-01 00:00:00
+\N,\N,\N,2000-01-01 00:00:00
+\N,\N,\N,2000-01-01 00:00:00
+\N, great for all-around riding.</wf:pedal><wf:crankset> Super rigid spindle. </wf:crankset><wf:BikeFrame>Our best value frame utilizing the same, ground-breaking technology as the ML aluminum frame.</wf:BikeFrame></p1:Features><!-- add one or more of these elements... one for each specific product in this product model --><p1:Picture><p1:Angle>front</p1:Angle><p1:Size>small</p1:Size><p1:ProductPhotoID>1</p1:ProductPhotoID></p1:Picture><!-- add any tags in <specifications> --><p1:Specifications> These are the product specifications.,\N,2000-01-01 00:00:00
+\N,\N,\N,2000-01-01 00:00:00
+\N,866DBAD3-5999-4329-BEAC-D826D959D9A1,20-11-2006,2000-01-01 00:00:00
+25,<?xml-stylesheet href="ProductDescription.xsl" type="text/xsl"?><p1:ProductDescription xmlns:p1="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/ProductModelDescription" xmlns:wm="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/ProductModelWarrAndMain" xmlns:wf="http://www.adventure-works.com/schemas/OtherFeatures" xmlns:html="http://www.w3.org/1999/xhtml" ProductModelID="25" ProductModelName="Road-150"><p1:Summary><html:p>This bike is ridden by race winners. Developed with the,\N,2000-01-01 00:00:00
+\N,\N,\N,2000-01-01 00:00:00
+\N,\N,\N,2000-01-01 00:00:00
+\N,\N,\N,2000-01-01 00:00:00
+\N, high-end anatomically shaped bar from aluminum alloy.</wf:handlebar><wf:wheel>Strong wheels with double-walled rims.</wf:wheel><wf:saddle><html:i>Lightweight </html:i> kevlar racing saddle.</wf:saddle><wf:pedal><html:b>Top-of-the-line</html:b> clipless pedals with adjustable tension.</wf:pedal><wf:BikeFrame><html:i>Our lightest and best quality </html:i> aluminum frame made from the newest alloy,,2000-01-01 00:00:00
+\N,\N,\N,2000-01-01 00:00:00
+\N,\N,\N,2000-01-01 00:00:00
+\N,94FFB702-0CBC-4E3F-B840-C51F0D11C8F6,01-06-2005,2000-01-01 00:00:00
+28,<?xml-stylesheet href="ProductDescription.xsl" type="text/xsl"?><p1:ProductDescription xmlns:p1="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/ProductModelDescription" xmlns:wm="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/ProductModelWarrAndMain" xmlns:wf="http://www.adventure-works.com/schemas/OtherFeatures" xmlns:html="http://www.w3.org/1999/xhtml" ProductModelID="28" ProductModelName="Road-450"><p1:Summary><html:p>A true multi-sport bike that offers streamlined riding and a revolutionary design.,\N,2000-01-01 00:00:00
+\N,\N,\N,2000-01-01 00:00:00
+\N,\N,\N,2000-01-01 00:00:00
+\N, built for speed on our high quality rubber tires.</wf:wheel><wf:saddle><html:i>Comfortable</html:i> saddle with bump absorping rubber bumpers.</wf:saddle><wf:pedal><html:b>Top-of-the-line</html:b> clipless pedals with adjustable tension.</wf:pedal><wf:BikeFrame><html:i>aluminum alloy </html:i> frame,\N,2000-01-01 00:00:00
+\N,\N,\N,2000-01-01 00:00:00
+\N,\N,\N,2000-01-01 00:00:00
+\N,8456BB94-B4DD-4A47-A76B-D0E54AB4285D,01-06-2005,2000-01-01 00:00:00
+34,<?xml-stylesheet href="ProductDescription.xsl" type="text/xsl"?><p1:ProductDescription xmlns:p1="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/ProductModelDescription" xmlns:wm="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/ProductModelWarrAndMain" xmlns:wf="http://www.adventure-works.com/schemas/OtherFeatures" xmlns:html="http://www.w3.org/1999/xhtml" ProductModelID="34" ProductModelName="Touring-1000"><p1:Summary><html:p>Travel in style and comfort. Designed for maximum comfort and safety.,\N,2000-01-01 00:00:00
+\N,\N,\N,2000-01-01 00:00:00
+\N,\N,\N,2000-01-01 00:00:00
+\N,\N,\N,2000-01-01 00:00:00
+\N,\N,\N,2000-01-01 00:00:00
+\N,\N,\N,2000-01-01 00:00:00
+\N,52E7F2C1-DBFF-4518-927D-C7D46F9ED32E,20-11-2006,2000-01-01 00:00:00
+35,<?xml-stylesheet href="ProductDescription.xsl" type="text/xsl"?><p1:ProductDescription xmlns:p1="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/ProductModelDescription" xmlns:wm="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/ProductModelWarrAndMain" xmlns:wf="http://www.adventure-works.com/schemas/OtherFeatures" xmlns:html="http://www.w3.org/1999/xhtml" ProductModelID="35" ProductModelName="Touring-2000"><p1:Summary><html:p>The plush custom saddle keeps you riding all day, and there's plenty of space,\N,2000-01-01 00:00:00
+\N,\N,\N,2000-01-01 00:00:00
+\N,\N,\N,2000-01-01 00:00:00
+\N,\N,\N,2000-01-01 00:00:00
+\N,,\N,2000-01-01 00:00:00
+\N,\N,\N,2000-01-01 00:00:00
+\N,AA10D9E6-E33F-4DA8-ACE1-992FCD6BB171,20-11-2006,2000-01-01 00:00:00
