@@ -3,7 +3,7 @@ O objetivo desse trabalho é importar arquivos CSV para o HDFS e criar tabelas d
 
 O ambiente Docker encontrado no repositório https://github.com/fabiogjardim/bigdata_docker foi utilizado para realizar este trabalho.
 
-### Iniciando o Docker e movendo arquivos para dentro do container:
+## Iniciando o Docker e movendo arquivos para dentro do container:
 O Docker deve ser iniciado na máquina e acessado o repositório em questão, indo até a pasta bigdata_docker e executando os seguintes comandos:
 - docker compose up -d
 - Em seguida, deve-se voltar para a pasta raiz do repositório e executar o comando "docker ps --format '{{.Names}}'".
@@ -35,18 +35,18 @@ Os dados foram organizados em dois databases dentro do Hive: data_adventure e da
 Raw - data_adventure_raw
 Na database data_adventure_raw, as tabelas são criadas diretamente a partir dos arquivos CSV, sem nenhuma transformação ou interpretação dos dados, as colunas das tabelas possuim o formado de strings,e eles são lidos diretamente do diretório /external_databases/data_adventure no HDFS.
 
-queriy imagem
+![texto alternativo da imagem](./img/raw.png)
 
 A estrutura de como os daods estão organizados na camada raw pode ser visualizado com o comando hadoop fs -ls /external_databases/data_adventure.
 
-print do ls
+![texto alternativo da imagem](./img/lsimg.png)
 
 Analytic - data_adventure
 Nesse banco de dados, os dados são submetidos a um tratamento que altera seus formatos para os esperados em cada coluna. Estamos particionando os dados por ano, utilizando o campo modified_year, que é uma abstração do modifieddate. Para auxiliar no particionamento, existe uma regra que atribui uma data fixa de '2000-01-01' quando a data estiver nula. A localização das tabelas fica em /databases/data_adventure, no hdfs.
 
-query criação da tabela
+![texto alternativo da imagem](./img/analitcs.png)
 
 Primeiro foi criado a tabela e em seguida foi feita a inserção, para que os dados fossem tratados na subquery que gera o resultado do insert:
 
-querie insert
+![texto alternativo da imagem](./img/insert.png)
 
